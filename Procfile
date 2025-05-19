@@ -1,0 +1,1 @@
+web: java -jar build/libs/bixie-app-all.jar $JAVA_OPTS
